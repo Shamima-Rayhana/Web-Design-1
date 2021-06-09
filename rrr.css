@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(240, 235, 235);
+}
+#about3{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+#about{
+    background-color: rgb(77, 104, 185);
+    padding: 50px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 400px;
+    margin-right: 900px;
+    margin-left:250px;
+    border: 30px;
+}
+#about2{
+    background-color: rgb(45, 45, 48);
+    padding: 50px;
+    text-align: left;
+    margin-top: -400px;
+    margin-bottom: 400px;
+    margin-right: 900px;
+    margin-left:250px;
+    border: 30px;
+}
+
+#contact{
+    background-color: rgb(200, 204, 200);
+    padding: 30px;
+    text-align: left;
+    margin-top: -1709px;
+    margin-bottom: 403px;
+    margin-right: 401px;
+    margin-left:602px;
+    border: 30px;
+}
+#a{
+    color: blue;
+}
+#b{
+    color: black;
+}
+#c{
+    color: white;
+}
