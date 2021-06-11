@@ -10,7 +10,7 @@ body{
     background-color: rgb(77, 104, 185);
     padding: 50px;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 400px;
     margin-right: 900px;
     margin-left:250px;
@@ -20,8 +20,8 @@ body{
     background-color: rgb(45, 45, 48);
     padding: 50px;
     text-align: left;
-    margin-top: -400px;
-    margin-bottom: 400px;
+    margin-top: -410px;
+    margin-bottom: 405px;
     margin-right: 900px;
     margin-left:250px;
     border: 30px;
@@ -29,11 +29,11 @@ body{
 
 #contact{
     background-color: rgb(200, 204, 200);
-    padding: 30px;
+    padding: 26px;
     text-align: left;
-    margin-top: -1709px;
-    margin-bottom: 403px;
-    margin-right: 401px;
+    margin-top: -1704px;
+    margin-bottom: 450px;
+    margin-right: 400px;
     margin-left:602px;
     border: 30px;
 }
